@@ -337,14 +337,14 @@ footer .footer-text {
     }
 }
 
-@media (max-width:394px) {
+@media (max-width:500px) {
     .secondsection {
         height: 100vh;
     }
 
     .leftsection {
-        width: 100%;
-        font-size: 1.7rem;
+        width: 105%;
+        font-size: 1.rem;
         margin-left: 10rem;
     }
 
@@ -358,5 +358,15 @@ footer .footer-text {
 
     .vertical {
         margin-bottom: 1rem;
+    }
+}
+
+@media (max-width:390px) {
+    .button {
+        width: 180%;
+    }
+
+    .secondhead {
+        font-size: 0.8rem;
     }
 }
