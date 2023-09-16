@@ -339,7 +339,7 @@ footer .footer-text {
 
 @media (max-width:500px) {
     .secondsection {
-        height: 100vh;
+        height: 158vh;
     }
 
     .leftsection {
@@ -353,20 +353,25 @@ footer .footer-text {
     }
 
     .secondhead {
-        margin-left: 6.2rem;
+        margin-left: 7rem;
+        margin-right: 0;
     }
+
 
     .vertical {
         margin-bottom: 1rem;
     }
 }
 
-@media (max-width:390px) {
+@media (max-width:400px) {
     .button {
         width: 180%;
     }
 
     .secondhead {
+        margin-right: 0;
+        margin-left: 6rem;
+        padding: 0;
         font-size: 0.8rem;
     }
 }
