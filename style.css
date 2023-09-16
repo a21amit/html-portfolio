@@ -357,9 +357,12 @@ footer .footer-text {
         margin-right: 0;
     }
 
-
     .vertical {
         margin-bottom: 1rem;
+    }
+
+    .footer {
+        padding: 1.rem;
     }
 }
 
