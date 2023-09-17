@@ -342,6 +342,9 @@ footer .footer-text {
     footer {
         width: 40rem;
     }
+    .footer .footer-third{
+        margin-left: 1rem; 
+    }
 }
 
 @media (max-width:500px) {
